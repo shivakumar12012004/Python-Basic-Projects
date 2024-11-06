@@ -29,6 +29,7 @@ The game will check for a winner after every move and display the winner or a ti
 | - | - | - |
 --------------
 | - | - | - |
+--------------
 
 Enter a number between 1-9 : 1
 
@@ -37,6 +38,7 @@ Enter a number between 1-9 : 1
 | - | - | - |
 --------------
 | - | - | - |
+--------------
 
 Enter a number between 1-9 : 2
 
@@ -45,6 +47,7 @@ Enter a number between 1-9 : 2
 | - | - | - |
 --------------
 | - | - | - |
+--------------
 
 Enter a number between 1-9 : 3
 
@@ -53,6 +56,7 @@ Enter a number between 1-9 : 3
 | - | - | - |
 --------------
 | - | - | - |
+--------------
 
 Enter a number between 1-9 : 4
 
@@ -61,6 +65,7 @@ Enter a number between 1-9 : 4
 | O | - | - |
 --------------
 | - | - | - |
+--------------
 
 Enter a number between 1-9 : 5
 
@@ -69,6 +74,7 @@ Enter a number between 1-9 : 5
 | O | X | - |
 --------------
 | - | - | - |
+--------------
 
 Enter a number between 1-9 : 6
 
@@ -77,6 +83,7 @@ Enter a number between 1-9 : 6
 | O | X | O |
 --------------
 | - | - | - |
+--------------
 
 Enter a number between 1-9 : 7
 
@@ -85,6 +92,7 @@ Enter a number between 1-9 : 7
 | O | X | O |
 --------------
 | X | - | - |
+--------------
 
 The winner is X
 
