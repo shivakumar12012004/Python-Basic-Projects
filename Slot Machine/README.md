@@ -37,6 +37,8 @@ A | D | B
 A | B | D
 --------------
 C | A | A
+
+
 You won $10.
 You won on lines: 1
 Current balance is $90
