@@ -18,22 +18,27 @@ This is a simple text-based Slot Machine game built using Python. Players can de
 4. Run the script by executing:
    ```bash
    python slot_machine.py
-The game will prompt you to:
-Enter how much you'd like to deposit.
-Select how many lines (1-3) you'd like to bet on.
-Enter how much you'd like to bet on each line.
+5.The game will prompt you to:
+6.Enter how much you'd like to deposit.
+7.Select how many lines (1-3) you'd like to bet on.
+   Enter how much you'd like to bet on each line.
 The slot machine will then "spin," and the results will be shown. You'll win or lose based on the combination of symbols.
 You can continue playing or quit at any time by typing q
+
+
 
 What would you like to deposit? $100
 Enter the number of lines to bet on (1-3)? 2
 What would you like to bet on each line? $10
 You are betting $10 on 2 lines. Total bet is equal to: $20
+
 A | D | B
 --------------
 A | B | D
 --------------
 C | A | A
+
+
 You won $10.
 You won on lines: 1
 Current balance is $90

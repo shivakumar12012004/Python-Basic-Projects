@@ -24,10 +24,77 @@ The game will check for a winner after every move and display the winner or a ti
 
 ## Gameplay Example
 
-![Screenshot 2024-11-06 140447](https://github.com/user-attachments/assets/efe0ebca-742b-4477-829e-df25797d9423)
+| - | - | - |
+--------------
+| - | - | - |
+--------------
+| - | - | - |
+--------------
 
-![Screenshot 2024-11-06 140501](https://github.com/user-attachments/assets/243d0d17-966a-4493-a4ec-2f46ccc6e866)
+Enter a number between 1-9 : 1
 
+| X | - | - |
+--------------
+| - | - | - |
+--------------
+| - | - | - |
+--------------
+
+Enter a number between 1-9 : 2
+
+| X | O | - |
+--------------
+| - | - | - |
+--------------
+| - | - | - |
+--------------
+
+Enter a number between 1-9 : 3
+
+| X | O | X |
+--------------
+| - | - | - |
+--------------
+| - | - | - |
+--------------
+
+Enter a number between 1-9 : 4
+
+| X | O | X |
+--------------
+| O | - | - |
+--------------
+| - | - | - |
+--------------
+
+Enter a number between 1-9 : 5
+
+| X | O | X |
+--------------
+| O | X | - |
+--------------
+| - | - | - |
+--------------
+
+Enter a number between 1-9 : 6
+
+| X | O | X |
+--------------
+| O | X | O |
+--------------
+| - | - | - |
+--------------
+
+Enter a number between 1-9 : 7
+
+| X | O | X |
+--------------
+| O | X | O |
+--------------
+| X | - | - |
+--------------
+
+The winner is X
 
 ## Game Logic
 
